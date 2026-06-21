@@ -1,0 +1,6 @@
+{
+  "name": "AutoBlogger AI",
+  "description": "An AI-powered blogging app that automatically generates and publishes news and creative articles in Hindi using Google's Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
